@@ -1,0 +1,12 @@
+{
+	Title: "Harry Potter and the Deathly Hallows"
+	Author: "J.K. Rowling"
+	Publisher: "Bloomsbury"
+	BatchReview: false
+	AudioBook: false
+	Reviewer: "Deirdre Donahue"
+	Brief: "<p>With <i>Harry Potter and the Deathly Hallows, </i>J.K. Rowling has created a...</p>"
+	ReviewUrl: http://www.usatoday.com/life/books/reviews/2007-07-21-deathly-hallows_N.htm
+	ISBN: "9780545010221"
+	BookLink: http://api.usatoday.com/reviews/books/book/Harry+Potter+and+the+Deathly+Hallows
+}
